@@ -1,6 +1,5 @@
 let greeting : string = "Hello Saida"
 console.log(greeting);
-
 greeting.toLowerCase()
  
 // number
